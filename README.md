@@ -89,10 +89,13 @@ Users can customize the app by switching themes, currencies, or enabling/disabli
 1. Clone the repository:  
    ```bash
    git clone https://github.com/carlabarastean/BudgetLy_app.git
-   cd BudgetLy_app
    ```
-
-2. Install dependencies:  
+2. Navigate to the actual project directory:
+   ```bash
+   cd II_PROIECT/iiProject
+   ```
+   
+3. Install dependencies:  
    ```bash
    cd client
    npm install
@@ -101,7 +104,7 @@ Users can customize the app by switching themes, currencies, or enabling/disabli
    npm install
    ```
 
-3. Start development:  
+4. Start development:  
    Backend:  
    ```bash
    npm start dev
