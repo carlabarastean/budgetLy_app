@@ -2,7 +2,7 @@
 
 
 ![platform](https://img.shields.io/badge/platform-Web%20App-blue)
-![stack](https://img.shields.io/badge/stack-React%2FNode%2FMongoDB-purple)
+![stack](https://img.shields.io/badge/stack-React%2FNode.js%2FMongoDB-purple)
 
 **BudgetLy** is a collaborative finance management web application that helps users track expenses, set budgets, and analyze financial habits. Developed as a team project, the app offers a modern and intuitive user interface backed by a full-stack implementation.
 
